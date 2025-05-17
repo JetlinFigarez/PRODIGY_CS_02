@@ -1,5 +1,7 @@
 # 🧠 PRODIGY_CS_02 — Pixel Manipulation for Image Encryption
 
+This is Task 2 of the Cybersecurity track from Prodigy Infotech.
+
     🔐 A simple yet insightful image encryption tool using pixel-level transformations — built for Cybersecurity Task 2 of the Prodigy InfoTech Internship.
 
 # 📌 Overview
