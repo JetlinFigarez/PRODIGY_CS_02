@@ -6,7 +6,7 @@ This is Task 2 of the Cybersecurity track from Prodigy Infotech.
 
 # 📌 Overview
 
-This project demonstrates a beginner-friendly approach to image encryption and decryption using basic pixel manipulation techniques. Developed as part of the "30 Days of Cybersecurity" learning track, the goal is to showcase how simple operations at the RGB pixel level can be used to obfuscate image content in a reversible manner.
+This project demonstrates a beginner-friendly approach to image encryption and decryption using basic pixel manipulation techniques. The goal is to showcase how simple operations at the RGB pixel level can be used to obfuscate image content in a reversible manner.
 🖼️ Features
 
     🔄 Image encryption via pixel color inversion
